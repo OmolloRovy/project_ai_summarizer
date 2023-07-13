@@ -1,4 +1,4 @@
-#  AI SaaS Business with React
+#  AI Article summarizer developed by React
 ![AI Summarizer](https://i.ibb.co/NK12JG2/Thumbnail-26.png)
 
 ## Introduction
